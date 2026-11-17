@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владислав\\documents\\Project\\Project.csproj": {}
+    "C:\\Users\\Владислав\\Documents\\Project\\Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владислав\\documents\\Project\\Project.csproj": {
+    "C:\\Users\\Владислав\\Documents\\Project\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владислав\\documents\\Project\\Project.csproj",
+        "projectUniqueName": "C:\\Users\\Владислав\\Documents\\Project\\Project.csproj",
         "projectName": "Project",
-        "projectPath": "C:\\Users\\Владислав\\documents\\Project\\Project.csproj",
+        "projectPath": "C:\\Users\\Владислав\\Documents\\Project\\Project.csproj",
         "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владислав\\documents\\Project\\obj\\",
+        "outputPath": "C:\\Users\\Владислав\\Documents\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",

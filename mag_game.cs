@@ -4,11 +4,14 @@ public class mag_toy
     public int Count { get; private set; }
     public List<string> Toys = new List<string>();
     public mag_status Status { get; private set; }
-    public string Name {
+    public string Name
+    {
         get { return _name; }
 
-        private set {
-            if (string.IsNullOrWhiteSpace(value)) {
+        private set
+        {
+            if (string.IsNullOrWhiteSpace(value))
+            {
                 _name = "Игра без названи";
                 return;
             }
@@ -28,7 +31,7 @@ public class mag_toy
 
         if (Count > 10) { Count = 10; }
 
-    
+
     }
 
 
@@ -84,9 +87,9 @@ public class mag_toy
         if (status_pr()) { return "Магазин закрыт"; }
 
         Console.WriteLine("каталог игр:");
-        return $"{Toys}";
+        return string.Join("," ,Toys);
     }
-    
+
 
 
 
